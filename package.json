@@ -3,6 +3,8 @@
   "version": "1.0.0",
   "description": "types shared across the server & client for Krossr",
   "scripts": {
-    "build": "tsc"
-  }
+    "build": "tsc",
+    "postinstall": "npx build"
+  },
+  "types": "dist/index.d.ts"
 }
