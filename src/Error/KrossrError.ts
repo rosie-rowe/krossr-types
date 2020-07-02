@@ -1,5 +1,5 @@
+import { KrossrErrorBody } from "./KrossrErrorBody";
+
 export interface KrossrError {
-    error: {
-        message: string;
-    }
+    error: KrossrErrorBody;
 }
