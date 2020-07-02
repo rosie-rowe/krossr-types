@@ -4,7 +4,7 @@
   "description": "types shared across the server & client for Krossr",
   "scripts": {
     "build": "tsc",
-    "postinstall": "npx build"
+    "postinstall": "npm run build"
   },
   "types": "dist/index.d.ts"
 }
