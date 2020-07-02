@@ -2,6 +2,7 @@
     "compilerOptions": {
         "declaration": true,
         "emitDeclarationOnly": true,
+        "moduleResolution": "node",
         "sourceMap": false,
         "outDir": "dist",
         "target": "es6"
