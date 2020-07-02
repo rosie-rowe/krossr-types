@@ -1,1 +1,1 @@
-export * from './Router/RouterModule';
+export * from './src/Router/RouterModule';

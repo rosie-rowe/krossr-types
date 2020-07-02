@@ -8,6 +8,7 @@
         "target": "es6"
     },
     "include": [
-        "./index.ts"
+        "./index.ts",
+        "./src/**/*.ts"
     ]
 }
