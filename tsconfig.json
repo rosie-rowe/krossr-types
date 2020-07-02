@@ -1,0 +1,12 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "emitDeclarationOnly": true,
+        "sourceMap": false,
+        "outDir": "dist",
+        "target": "es6"
+    },
+    "include": [
+        "./index.ts"
+    ]
+}
