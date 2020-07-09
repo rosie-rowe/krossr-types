@@ -1,4 +1,4 @@
-export class ResetPasswordParamsViewModel {
+export class ResetPasswordBodyViewModel {
     newPassword: string;
     verifyPassword: string;
 }

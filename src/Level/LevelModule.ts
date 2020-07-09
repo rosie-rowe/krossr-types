@@ -1,3 +1,3 @@
-export * from './CreateLevelParamsViewModel';
-export * from './UpdateLevelParamsViewModel';
+export * from './CreateLevelBodyViewModel';
+export * from './UpdateLevelBodyViewModel';
 export * from './LevelViewModel';

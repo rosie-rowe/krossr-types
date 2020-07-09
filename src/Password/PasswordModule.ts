@@ -1,4 +1,4 @@
-export * from './ChangePasswordParamsViewModel';
-export * from './ForgotPasswordParamsViewModel';
-export * from './ResetPasswordParamsViewModel';
+export * from './ChangePasswordBodyViewModel';
+export * from './ForgotPasswordBodyViewModel';
+export * from './ResetPasswordBodyViewModel';
 export * from './ResetValidationViewModel';
