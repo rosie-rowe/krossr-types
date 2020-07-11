@@ -5,4 +5,7 @@ export interface LevelListLevelViewModel extends LevelViewModel {
     avgRating: string;
     createdAt: string;
     user: UserViewModel;
+
+    /** Formatted for display */
+    prettySize: string;
 }
