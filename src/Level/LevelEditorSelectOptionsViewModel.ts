@@ -1,5 +1,5 @@
 import { Dictionary } from "../Dictionary/Dictionary";
 
 export class LevelEditorSelectOptionsViewModel {
-    sizeOptions: Dictionary<string>;
+    sizeOptions: Dictionary<number>;
 }
