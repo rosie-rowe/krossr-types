@@ -3,6 +3,7 @@ import { UserViewModel } from "../User/UserModule";
 
 export interface LevelListLevelViewModel extends LevelViewModel {
     avgRating: string;
+    completed: boolean;
     createdAt: string;
     user: UserViewModel;
 
