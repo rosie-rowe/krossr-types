@@ -1,3 +1,4 @@
+export * from './src/CompletedLevel/CompletedLevelBodyViewModel';
 export * from './src/Dictionary/DictionaryModule';
 export * from './src/Error/ErrorModule';
 export * from './src/Level/LevelModule';
