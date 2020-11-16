@@ -1,5 +1,6 @@
 export * from './src/CompletedLevel/CompletedLevelBodyViewModel';
 export * from './src/Dictionary/DictionaryModule';
+export * from './src/Editable/Editable';
 export * from './src/Error/ErrorModule';
 export * from './src/Level/LevelModule';
 export * from './src/LevelList/LevelListModule';
