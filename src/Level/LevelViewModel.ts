@@ -13,4 +13,10 @@ export interface LevelViewModel {
     size: number;
 
     userRating?: RatingViewModel;
+
+    /** Access control */
+    canDelete?: boolean;
+
+    /** Access control */
+    canBanLayout?: boolean;
 }
